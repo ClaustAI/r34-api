@@ -12,4 +12,7 @@ Currently we just have one endpoint. I will be working on making other ones
 ### 👨🏻‍💻 Developers
 - [Kiyopon](https://github.com/kiyoopon/)
 
+### 💎 Contributors
+- [Indratensei](https://github.com/indratensei/)
+
 **💖 Pull requests are welcome**
