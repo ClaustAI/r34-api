@@ -7,7 +7,7 @@ It just supports one site for now. I am working on making other ones will take a
 
 ### 📄 Endpoints
 Currently we just have one endpoint. I will be working on making other ones
-- /s/<prompt>
+- /s/prompt
 
 ### 👨🏻‍💻 Developers
 - [Kiyopon](https://github.com/kiyoopon/)
