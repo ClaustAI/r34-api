@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 app = Flask(__name__)
 
 @app.route('/s/<prompt>')
-@app.route('/s/<prompt>')
 def get_images(prompt):
     url = f'https://rule34.us/index.php?r=posts/index&q={prompt}'
     response = requests.get(url)
